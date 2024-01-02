@@ -3,7 +3,7 @@ Re-create the results found in the paper, "Identifying Exoplanets with Deep Lear
 
 # Setup
 
-Getting all the requirements in place to recreate the results of the paper is one of the biggest challenges overall.  The technology used in the paper has changed dramatically in the two years since it was published.  New versions of tensorflow as well as the underlying os, Ubuntu 16 have been released and existing code used in the paper is no longer compatible.
+Getting all the requirements in place to recreate the results of the paper is one of the biggest challenges overall.  The technology used in the paper has changed dramatically in the years since it was published.  New versions of tensorflow as well as the underlying os, Ubuntu 16 have been released and existing code used in the paper is no longer compatible.
 
 To preserve the original integrity of the project, a docker container with the same software versions used in 2018 is implemented to host and run the original code.
 
